@@ -1,0 +1,1 @@
+cmake -DCMAKE_TOOLCHAIN_FILE="D:/gitRepo/NXP_iMX/mcuxsdk/core/tools/cmake_toolchain_files/armgcc.cmake" -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=flexspi_nor_release ..\armgcc
